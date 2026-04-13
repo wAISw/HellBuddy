@@ -103,5 +103,7 @@
         <file>StratagemIcons/Tectonic Drill.svg</file>
         <file>StratagemIcons/TX-41 Sterilizer.svg</file>
         <file>StratagemIcons/Upload Data.svg</file>
+        <file>StratagemIcons/FLAM-80 Cremator.svg</file>
+        <file>StratagemIcons/GM-17 Gas Mortar Sentry.svg</file>
     </qresource>
 </RCC>
