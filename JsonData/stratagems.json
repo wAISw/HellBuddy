@@ -29,6 +29,7 @@
   { "name": "EAT-411 Leveller", "sequence": ["S", "S", "A", "W", "S"] },
   { "name": "GL-28 Belt-Fed Grenade Launcher", "sequence": ["S", "A", "W", "A", "W", "W"] },
   { "name": "FLAM-80 Cremator", "sequence": ["S", "S", "D", "S", "W", "W"] },
+  { "name": "MGX-42 Bullet Storm", "sequence": ["S", "A", "S", "D", "W", "A"] },
 
 
 
@@ -90,6 +91,8 @@
   { "name": "TD-220 Bastion", "sequence": ["A", "S", "D", "S", "A", "S", "W", "S", "W"] },
   { "name": "EXO-45 Patriot Exosuit", "sequence": ["A", "S", "D", "W", "A", "S", "S"] },
   { "name": "EXO-49 Emancipator Exosuit", "sequence": ["A", "S", "D", "W", "A", "S", "W"] },
+  { "name": "EXO-51 Lumberer Exosuit", "sequence": ["A", "S", "D", "W", "D", "A", "W"] },
+  { "name": "EXO-55 Breakthrough Exosuit", "sequence": ["A", "S", "D", "A", "D", "S", "W"] },
 
 
 
